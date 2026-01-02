@@ -7,4 +7,5 @@ filetype plugin on
 filetype indent on
 syntax on
 set mouse=a
+set ts=2
 EOF
